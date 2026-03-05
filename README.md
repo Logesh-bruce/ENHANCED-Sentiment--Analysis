@@ -1,7 +1,7 @@
 # Text Sentiment Analyzer
 
 A simple MERN stack application to analyze the sentiment of text inputs.
-
+ 
 ## Features
 
 - **Frontend**: 
